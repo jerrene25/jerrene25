@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/jerrene-sharaphin-grace-834304320"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"width="100" /></a>
-  <a href="mailto:jerrenejerrene@gmail.com"><img src="https://img.shields.io/badge/-Email-gray?style=flat&logo=gmail"width="100" /></a>
+  <a href="mailto:jerrene.work@gmail.com"><img src="https://img.shields.io/badge/-Email-gray?style=flat&logo=gmail"width="100" /></a>
 </p>
 
 
